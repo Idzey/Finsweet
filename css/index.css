@@ -1,0 +1,52 @@
+.block-1 {
+    background-color: #F4F0F8;
+}
+.block-1 .row {
+    padding: 50px 0;
+}
+.btn-yellow {
+    background-color: #FFD050;
+}
+.btn-yellow:hover {
+    outline: #232536 solid;
+    transition: 0.5s;
+}
+.btn-footer:hover {
+    color: #fff;
+    outline: #fff solid;
+    transition: 0.5s;
+}
+.block-1_img {
+    background-image: url(../assets/img-1.png);
+    background-repeat: no-repeat;
+}
+.block-2 article {
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+.block-2 .article_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-2 .article_text {
+    padding: 50px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card {
+    border-radius: 0;
+}
+.card-img {
+    background-image: url(../assets/icon-backg.svg);
+    background-repeat: no-repeat;
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-active {
+    background-color: #FFD050;
+}

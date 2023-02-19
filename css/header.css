@@ -1,0 +1,43 @@
+body {
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    text-decoration: none;
+    color: #000;
+}
+a:before {
+    text-decoration: none;
+    color: #000;
+}
+header {
+    background-color: #232536;
+}
+header .btn {
+    background-color: #fff;
+}
+header .btn:hover {
+    color: #fff;
+    outline: #fff solid;
+    transition: 0.5s;
+}
+.btn {
+    border-radius: 0;
+    padding: 10px 30px;
+}
+.ff-inter {
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+.ff-sen {
+    font-weight: 700;
+    font-family: 'Sen', sans-serif;
+}
+.lt {
+    letter-spacing: 4px;
+    font-size: 10pt;
+}

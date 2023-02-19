@@ -1,0 +1,27 @@
+footer {
+    min-height: 50vh;
+    background-color: #232536;
+}
+.footer_form {
+    background-color: rgb(46,48,64);
+    padding: 50px;
+}
+.footer_input {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer_input input {
+    background-color: transparent;
+    border: 1px solid #4C4C4C;
+    border-radius: 0;
+    padding: 10px 20px;
+    color: #fff;
+}
+.footer_input input:active {
+    background-color: transparent;
+    border: 1px solid #4C4C4C;
+    border-radius: 0;
+    padding: 10px 20px;
+    color: #fff;
+}
